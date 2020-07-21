@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="166cb731-f1f2-4f3d-aca5-c8dbd684cfa0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dziMAuNsAh0Bo5U6dXLHlViYBh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11.0.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kubernetes/projects" />
+      <recent name="$PROJECT_DIR$/kubernetes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LocationTest.testAddLocation">
+    <configuration default="true" type="Application" factoryName="Application">
+      <module name="gateway-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthServiceApplicationTest.testCreateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.samwan.authservice.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.samwan.authservice.test" />
+      <option name="MAIN_CLASS_NAME" value="org.samwan.authservice.test.AuthServiceApplicationTest" />
+      <option name="METHOD_NAME" value="testCreateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H2IntegrationTest.testAddCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="admin-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.samwan.admin.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.samwan.admin.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.samwan.admin.tests.H2IntegrationTest" />
+      <option name="METHOD_NAME" value="testAddCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H2IntegrationTest.testAddLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="admin-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.samwan.admin.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.samwan.admin.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.samwan.admin.tests.H2IntegrationTest" />
+      <option name="METHOD_NAME" value="testAddLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="H2IntegrationTest.testLocationRepositoryNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="admin-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.samwan.admin.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.samwan.admin.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.samwan.admin.tests.H2IntegrationTest" />
+      <option name="METHOD_NAME" value="testLocationRepositoryNotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocationTest.testAddLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="admin-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.samwan.admin.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.samwan.admin.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.samwan.admin.tests.LocationTest" />
+      <option name="METHOD_NAME" value="testAddLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AuthServiceApplicationTest.testCreateUser" />
+      <item itemvalue="JUnit.H2IntegrationTest.testLocationRepositoryNotNull" />
+      <item itemvalue="JUnit.H2IntegrationTest.testAddLocation" />
+      <item itemvalue="JUnit.H2IntegrationTest.testAddCategory" />
+      <item itemvalue="JUnit.LocationTest.testAddLocation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LocationTest.testAddLocation" />
+        <item itemvalue="JUnit.H2IntegrationTest.testAddCategory" />
+        <item itemvalue="JUnit.H2IntegrationTest.testAddLocation" />
+        <item itemvalue="JUnit.H2IntegrationTest.testLocationRepositoryNotNull" />
+        <item itemvalue="JUnit.AuthServiceApplicationTest.testCreateUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166cb731-f1f2-4f3d-aca5-c8dbd684cfa0" name="Default Changelist" comment="" />
+      <created>1593434272294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593434272294</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="181" width="847" height="677" key="#Project_Structure" timestamp="1594206027236">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="555" y="181" key="#Project_Structure/0.27.1920.985@0.27.1920.985" timestamp="1594206027236" />
+    <state x="555" y="181" width="847" height="677" key="#Project_Structure/0.27.1920.988@0.27.1920.988" timestamp="1593444535096" />
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593444829827">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.988@0.27.1920.988" timestamp="1593444829827" />
+    <state x="618" y="324" width="755" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594917595964">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="618" y="324" width="755" height="389" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.985@0.27.1920.985" timestamp="1594917595964" />
+    <state x="618" y="325" width="674" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.988@0.27.1920.988" timestamp="1593438717002" />
+    <state x="768" y="232" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1594636859824">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="768" y="232" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.27.1920.985@0.27.1920.985" timestamp="1594636859824" />
+    <state x="801" y="412" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1593445003828">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="801" y="412" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.1920.988@0.27.1920.988" timestamp="1593445003828" />
+    <state x="760" y="398" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594206009250">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="760" y="398" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1594206009250" />
+    <state x="743" y="278" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1593755453722" />
+    <state width="1920" height="289" key="GridCell.Tab.0.bottom" timestamp="1595009618337">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1920" height="289" key="GridCell.Tab.0.bottom/0.27.1920.985@0.27.1920.985" timestamp="1595009618337" />
+    <state width="1874" height="257" key="GridCell.Tab.0.bottom/0.27.1920.988@0.27.1920.988" timestamp="1593498827868" />
+    <state width="1920" height="289" key="GridCell.Tab.0.center" timestamp="1595009618335">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1920" height="289" key="GridCell.Tab.0.center/0.27.1920.985@0.27.1920.985" timestamp="1595009618335" />
+    <state width="1874" height="257" key="GridCell.Tab.0.center/0.27.1920.988@0.27.1920.988" timestamp="1593498827867" />
+    <state width="1920" height="289" key="GridCell.Tab.0.left" timestamp="1595009618334">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1920" height="289" key="GridCell.Tab.0.left/0.27.1920.985@0.27.1920.985" timestamp="1595009618334" />
+    <state width="1874" height="257" key="GridCell.Tab.0.left/0.27.1920.988@0.27.1920.988" timestamp="1593498827866" />
+    <state width="1920" height="289" key="GridCell.Tab.0.right" timestamp="1595009618336">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1920" height="289" key="GridCell.Tab.0.right/0.27.1920.985@0.27.1920.985" timestamp="1595009618336" />
+    <state width="1874" height="257" key="GridCell.Tab.0.right/0.27.1920.988@0.27.1920.988" timestamp="1593498827868" />
+    <state width="1874" height="318" key="GridCell.Tab.1.bottom" timestamp="1593445195393">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.bottom/0.27.1920.988@0.27.1920.988" timestamp="1593445195393" />
+    <state width="1874" height="318" key="GridCell.Tab.1.center" timestamp="1593445195393">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.center/0.27.1920.988@0.27.1920.988" timestamp="1593445195393" />
+    <state width="1874" height="318" key="GridCell.Tab.1.left" timestamp="1593445195392">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.left/0.27.1920.988@0.27.1920.988" timestamp="1593445195392" />
+    <state width="1874" height="318" key="GridCell.Tab.1.right" timestamp="1593445195393">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state width="1874" height="318" key="GridCell.Tab.1.right/0.27.1920.988@0.27.1920.988" timestamp="1593445195393" />
+    <state x="493" y="178" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1594882964959">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="493" y="178" width="924" height="691" key="Maven.ArtifactSearchDialog/0.27.1920.985@0.27.1920.985" timestamp="1594882964959" />
+    <state x="493" y="178" width="924" height="684" key="Maven.ArtifactSearchDialog/0.27.1920.988@0.27.1920.988" timestamp="1593436359407" />
+    <state x="449" y="155" width="1024" height="845" key="SettingsEditor" timestamp="1593444993210">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="449" y="155" width="1024" height="845" key="SettingsEditor/0.27.1920.988@0.27.1920.988" timestamp="1593444993210" />
+    <state x="616" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1594899431350">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="616" y="346" key="com.intellij.ide.util.TipDialog/0.27.1920.985@0.27.1920.985" timestamp="1594899431350" />
+    <state x="616" y="347" key="com.intellij.ide.util.TipDialog/0.27.1920.988@0.27.1920.988" timestamp="1593714934917" />
+    <state x="269" y="216" width="1372" height="605" key="new project wizard" timestamp="1594203718290">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="269" y="216" key="new project wizard/0.27.1920.985@0.27.1920.985" timestamp="1594203718290" />
+    <state x="269" y="217" width="1372" height="605" key="new project wizard/0.27.1920.988@0.27.1920.988" timestamp="1593434447916" />
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1594630280726">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup/0.27.1920.985@0.27.1920.985" timestamp="1594630280726" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+debug: true
+spring:
+  application:
+    name: auth-service
+
+authserver:
+  app:
+    jwtSecret: samwanSecretKey
+    jwtExpiration: 86400000

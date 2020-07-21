@@ -1,0 +1,47 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: Gateway
+metadata:
+  name: jobsapp-gateway
+spec:
+  selector:
+    istio: ingressgateway # use istio default controller
+  servers:
+    - port:
+        number: 443
+        name: https
+        protocol: HTTPS
+      tls:
+        mode: SIMPLE
+        credentialName: jobsapp-credential # must be the same as secret
+      hosts:
+#        - "jobsapp.example.com"
+        - "*"
+---
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: admin
+spec:
+  hosts:
+#    - "jobsapp.example.com"
+    - "*"
+  gateways:
+    - jobsapp-gateway
+  http:
+    - match:
+        - uri:
+            prefix: /admin
+        - uri:
+            prefix: /hello
+        - uri:
+            prefix: /static
+        - uri:
+            prefix: /login
+        - uri:
+            prefix: /
+      route:
+        - destination:
+            host: admin
+            subset: v1
+#            port:
+#              number: 8080
